@@ -17,7 +17,7 @@ bash uninstall.sh
 
 The installer hard-codes the absolute path to `mdview.py` in the alias. If you move the project directory, re-run `install.sh`.
 
-### Quick run (no install)
+### Quick run
 
 ```sh
 python3 mdview.py                # browse from current directory
