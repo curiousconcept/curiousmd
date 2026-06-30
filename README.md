@@ -1,6 +1,6 @@
 # CuriousMD
 
-A local python Markdown viewer and editor for the desktop. Spins up a loopback HTTP server, opens your browser, and lets you browse, open, read, and edit `.md` files — no external dependencies.
+A local python Markdown viewer and editor for the desktop. Spins up a loopback HTTP server, opens MD files with your browser, and lets you read, and edit `.md` files — no external dependencies. For those who aren't happy with glow.
 
 ---
 
