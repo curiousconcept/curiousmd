@@ -27,7 +27,7 @@ python3 mdview.py docs/          # preload every .md file under docs/
 
 ---
 
-## What it is
+## Summary
 
 | Item | Detail |
 |------|--------|
