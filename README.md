@@ -1,6 +1,6 @@
 # CuriousMD
 
-A local Markdown viewer and editor for the desktop. Spins up a loopback HTTP server, opens your browser, and lets you browse, open, read, and edit `.md` files — no cloud, no account, no external dependencies.
+A local Markdown viewer and editor for the desktop. Spins up a loopback HTTP server, opens your browser, and lets you browse, open, read, and edit `.md` files — no external dependencies.
 
 ---
 
